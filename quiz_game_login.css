@@ -1,0 +1,29 @@
+body{
+    background-image:url(MATH.png);
+    background-size:cover;
+}
+
+label{
+    font-weight: bold;
+    color: red;
+    font-size: 20px;
+}
+
+input{
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
